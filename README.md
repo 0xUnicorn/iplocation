@@ -3,7 +3,9 @@
 ## Description
 
 This package uses `https://ip-api.com` for performing ip-based location lookups \
-Developed for use in a BornHack 2021 application.
+Developed for use in a BornHack 2021 application. \
+
+The reason for developing this is for not exceding the limit of 45 request/min on the API.
 
 ## Usage
 
